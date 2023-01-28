@@ -20,8 +20,6 @@
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 😂Meme
-<img src="[https://random-memer.herokuapp.com/](https://www.google.com/url?sa=i&url=https%3A%2F%2Famberblocks.com%2Fmeme-bonk-co-nghia-la-gi-GaeNE7LX&psig=AOvVaw3NIMWWOeONJEAT63Ozo0u1&ust=1675007391844000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNjB2vbO6vwCFQAAAAAdAAAAABAE)" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=KhangKuro&icon=0&color=2)](https://visitcount.itsvg.in)
