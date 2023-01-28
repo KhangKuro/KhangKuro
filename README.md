@@ -1,7 +1,10 @@
 # 💫About Me :
 🌱 I’m currently learning at VNU-HCUMS
+
 🎂 26/01/2002
+
 🗺️ Tây Ninh, Việt Nam
+
 📫 How to reach me: hbaokhangofficial@gmail.com
 
 ## 🌐Socials
