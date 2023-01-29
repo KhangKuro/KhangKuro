@@ -1,5 +1,5 @@
 # 💫About Me :
-🌱 I’m currently learning at VNU-HCUMS
+🌱 I’m currently learning at VNU-HCMUS
 
 🎂 26/01/2002
 
